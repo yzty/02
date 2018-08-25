@@ -1,8 +1,10 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+	lllllllll
+	
 222222222222222222222221
-22222222222222222222222ytuftyjfjgchtrhdrt44444uu
+22222222222222222222222ytuftyjfjgchtrhdrt44444vyityujjjjjccc
     <router-view/>
   </div>
 </template>

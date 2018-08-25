@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
 222222222222222222222221
-22222222222222222222222
+22222222222222222222222ytuftyjfjgchtrhdrt
     <router-view/>
   </div>
 </template>
